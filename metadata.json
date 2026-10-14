@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Velouté - Haute Pâtisserie & Bespoke Cake Studio",
+  "description": "Artisanal bespoke cakes, architectural multi-tier confections, and handcrafted French gateaux for celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
